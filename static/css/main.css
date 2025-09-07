@@ -31,17 +31,12 @@ body {
 }
 
 .logo {
-    color: white;
+    color: #f9fffe;
     font-size: 24px;
     font-weight: bold;
     display: flex;
     align-items: center;
     gap: 10px;
-}
-
-.logo::before {
-    content: "🔒";
-    font-size: 28px;
 }
 
 /* Main Content */
